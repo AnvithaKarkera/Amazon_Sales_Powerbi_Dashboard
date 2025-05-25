@@ -2,7 +2,8 @@
 
 A Power BI dashboard to analyze Amazon sales data with key metrics like Total Sales, Top Products, Region-wise Sales, Order Status, and more.
 
-https://github.com/AnvithaKarkera/Amazon_Sales_Powerbi_Dashboard/blob/97d96635ecfbf1bb0067eeab7561e4d3bf1a3fe0/Screenshot%202025-05-23%20201322.png
+![image](https://github.com/user-attachments/assets/14a81835-8a9f-442d-81d7-d247b8b65908)
+
 
 ## Features
 
